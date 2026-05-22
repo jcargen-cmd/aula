@@ -84,11 +84,11 @@ usuarios autorizados en cualquier momento que requieran acceso
 ## Contraseñas, gestores y MFA
 
 Revolución Digital[^1]
-======================
+==================
 
 <div style="display:flex; flex-direction:row;">
-<div style="font-size: 18px; width:20em; padding: 20px;">
-Hoy vivimos el periodo entre la tercera y la cuarta revolución industrial, vivimos una época marcada por sucesivas revoluciones tecnólogicas. Partiendo por la invención de Internet, la explosión de las redes sociales, la evolución del Software como herramienta indispensable y recientemente la irrupcion acelerada de las IAs para apoyo y automatización de actividades
+<div style="font-size: 18px; width:25em; padding: 20px;">
+Hoy vivimos el periodo entre la tercera y la cuarta revolución industrial. Vivimos una época marcada por sucesivas revoluciones tecnólogicas. Partiendo por la invención de Internet, la explosión de las redes sociales, la evolución del Software como herramienta indispensable y recientemente la irrupcion acelerada de las IAs para apoyo y automatización de actividades
 
 ---
 
@@ -106,7 +106,10 @@ Con estos avances surgen tambien nuevos riesgos y amenazas
 
 </div>
 </div>
-
+<div style="font-size: 18px; padding: 20px;">
+Cuando la información de una organización se ve comprometida, su reputación y las finanzas de la misma se ven gravemente afectadas. En el caso de nuestro hospital, la informacion que se gestiona tanto de pacientes como de funcionarios y colaboradores, resulta muy atractiva para el mercado ilegal, donde se llegan a transaccionar miles de millones de dolares al año por bases de datos robadas. <br>
+Abrazar la **seguridad de la información**, como activo de la organización entrega a nuestro establecimiento un fuerte prestigio y reputación dentro del ***ecosistema digital de salud*** y de cara a la demanda de las personas.
+</div>
 
 [^1]: La **Cuarta** Revolución Industrial se basa en la Revolución Digital, la cual representa nuevas formas en que la tecnología se integra en las sociedades e incluso en el cuerpo humano. Está marcada por los **avances tecnológicos** emergentes en varios campos, que incluyen: robótica, inteligencia artificial, nanotecnología, computación cuántica, biotecnología, Internet de las cosas (IoT), impresión 3D y vehículos autónomos. Anteriores, que se caracterizaron principalmente por los avances en tecnología. Estas tecnologías tienen un gran potencial para continuar conectando a miles de millones de personas a la web, mejorar drásticamente la eficiencia de las empresas y organizaciones y ayudar a regenerar el entorno natural a través de una mejor **gestión de activos** ...
 

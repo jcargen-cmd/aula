@@ -11,7 +11,7 @@ edit:     true
 
 repository: https://github.com/jcargen-cmd/aula
 
-logo:     img/logo.png
+logo:     https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/logo_trasnp.png
 
 comment:  Este módulo corresponde al tercer modulo del curso de ciberseguridad TIC
 

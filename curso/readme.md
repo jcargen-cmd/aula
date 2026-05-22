@@ -33,9 +33,10 @@ font:     Noto Sans
 ## Repaso
 
 __Principios de la seguridad de la informacion__
-
+<div style="font-size: 18px;">
 La seguridad de la informacion, se constituye por tres perspectivas que van incidir en la completitud y calidad de esta: su __confidencialidad__, su __integridad__ y su __disponibilidad__. las amenazas a la seguridad de la informacion, van a afectar a una, dos o todas éstas perspectivas, en la eventualidad que se materialicen.
 Por ejemplo un ataque Ransonware afecta a las 3 por igual dado que impide el acceso a la información, puede filtrar la informacion al dominio publico, y puede modificarla a su entera discreción.
+</div>
 
 <div style="display:flex; flex-direction:row; font-size: 18px;">
 <div style="padding: 20px;">

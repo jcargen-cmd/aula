@@ -4,7 +4,7 @@ email:    juan.carrasco@hegc.gob.cl
 date:     19/05/2026
 version:  1.0
 language: es
-narrator: Spanish Male 
+narrator: none
 mode:     presentation
 edit:     false
 repository: https://github.com/jcargen-cmd/aula

@@ -17,7 +17,6 @@ comment:  Este módulo corresponde al tercer modulo del curso de ciberseguridad 
 
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
-
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
 link:     https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css

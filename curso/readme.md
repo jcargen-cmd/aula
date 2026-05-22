@@ -16,7 +16,7 @@ icon: https://tu-freiberg.de/sites/default/files/styles/crop_landscape_1300/publ
 comment:  Este módulo corresponde al tercer modulo del curso de ciberseguridad TIC
 
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
-          https://felixhao28.github.io/JSCPP/dist/JSCPP.es5.min.js
+
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 

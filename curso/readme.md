@@ -58,3 +58,5 @@ usuarios autorizados en cualquier momento que requieran acceso
 >    Bloquear tu pc con <kbd>ctrl</kbd> + <kbd>l</kbd> cuando abandones tu puesto de trabajo
 </div>
 </div>
+
+![cid](https://https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/cid_up.png)

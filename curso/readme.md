@@ -83,9 +83,11 @@ usuarios autorizados en cualquier momento que requieran acceso
 
 ## Contraseñas, gestores y MFA
 
+<p><strong>__Revolución Tecnológica__</strong></p>
 <div style="display:flex; flex-direction:row; font-size: 18px;">
-<div style="width:40%">
-
+<div style="width:100em; padding: 20px;">
+ 
+ Hoy vivimos el periodo entre la tercera y la cuarta revolución industrial
 </div>
 <div>
 

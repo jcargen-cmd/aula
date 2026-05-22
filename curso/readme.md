@@ -59,4 +59,4 @@ usuarios autorizados en cualquier momento que requieran acceso
 </div>
 </div>
 
-![cid](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/cid_up.png)
+![cid](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/cid_up.png "CID")

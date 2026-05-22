@@ -34,7 +34,7 @@ font:     Noto Sans
 
 __Principios de la seguridad de la informacion__
 <div style="font-size: 18px;">
-La seguridad de la informacion, se constituye por tres perspectivas que van incidir en la completitud y calidad de esta: su __confidencialidad__, su __integridad__ y su __disponibilidad__. las amenazas a la seguridad de la informacion, van a afectar a una, dos o todas éstas perspectivas, en la eventualidad que se materialicen.
+La seguridad de la informacion, se constituye por tres perspectivas que van incidir en la completitud y calidad de esta: su __confidencialidad__, su __integridad__ y su __disponibilidad__[^1]. las amenazas a la seguridad de la informacion, van a afectar a una, dos o todas éstas perspectivas, en la eventualidad que se materialicen.
 Por ejemplo un ataque Ransonware afecta a las 3 por igual dado que impide el acceso a la información, puede filtrar la informacion al dominio publico, y puede modificarla a su entera discreción.
 </div>
 
@@ -79,4 +79,4 @@ usuarios autorizados en cualquier momento que requieran acceso
 
 ![cid](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/cid_up.png)
 
-
+[^1]: Estos conceptos son conocidos como **TRIADA CID** En el ámbito de la seguridad de la información.

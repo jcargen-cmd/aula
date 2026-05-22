@@ -83,12 +83,15 @@ usuarios autorizados en cualquier momento que requieran acceso
 
 ## Contraseñas, gestores y MFA
 
-<div style="font-size: 28px;">Revolución Tecnológica</div>
+Revolución Tecnológica
+======================
 
-<div style="display:flex; flex-direction:row; font-size: 18px;">
-<div style="width:20em; padding: 20px;">
+<div style="display:flex; flex-direction:row;">
+<div style="font-size: 18px; width:20em; padding: 20px;">
 Hoy vivimos el periodo entre la tercera y la cuarta revolución industrial, vivimos una época marcada por sucesivas revoluciones tecnólogicas. Partiendo por la invención de Internet, la explosión de las redes sociales, la evolución del Software como herramienta indispensable y recientemente la irrupcion acelerada de las IAs para apoyo y automatización de actividades
+
 ---
+
 Con estos avances surgen tambien nuevos riesgos y amenazas
 * Crimen cibernético y Ciberterrorismo.
 * Filtración de datos privados y confidenciales
@@ -103,4 +106,3 @@ Con estos avances surgen tambien nuevos riesgos y amenazas
 
 </div>
 </div>
-

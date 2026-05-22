@@ -7,11 +7,11 @@ version:  1.0
 language: es
 narrator: Spanish Male 
 
-edit:     true
+edit:     false
 
 repository: https://github.com/jcargen-cmd/aula
 
-logo:     https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/logo_trasnp.png
+logo:     https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/logo.png
 
 comment:  Este módulo corresponde al tercer modulo del curso de ciberseguridad TIC
 

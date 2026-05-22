@@ -12,7 +12,7 @@ edit:     false
 repository: https://github.com/jcargen-cmd/aula
 
 logo:     https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/logo.png
-
+icon: https://tu-freiberg.de/sites/default/files/styles/crop_landscape_1300/public/2023-08/Bild2.png
 comment:  Este módulo corresponde al tercer modulo del curso de ciberseguridad TIC
 
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js

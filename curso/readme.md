@@ -106,3 +106,35 @@ usuarios autorizados en cualquier momento que requieran acceso
 
 ## Contraseñas, gestores y MFA
 
+Ranking 2026 Contraseñas mas usadas en Chile
+============================================
+
+![ranking](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/ranking.png)
+
+### El problema de la Autenticación
+
+<div style="display:flex; flex-direction:row;">
+<div>
+
+![tessera](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/tesselas.png)
+
+</div>
+<div style="font-size: 16px; width:20em; padding: 15px;">
+Hoy vivimos el periodo entre la tercera y la cuarta revolución industrial. Vivimos una época marcada por sucesivas revoluciones tecnólogicas. Partiendo por la invención de Internet, la explosión de las redes sociales, la evolución del Software como herramienta indispensable y recientemente la irrupcion acelerada de las IAs para apoyo y automatización de actividades
+
+---
+
+Con estos avances surgen tambien nuevos riesgos y amenazas
+* Crimen cibernético y Ciberterrorismo.
+* Filtración de datos privados y confidenciales
+* Suplantación de Identidad 
+* Ataques de software malicioso y ransomware
+* Ataques de Ingeniería Social 
+
+---
+
+Cuando la información de una organización se ve comprometida, su reputación y las finanzas de la misma se ven gravemente afectadas. En el caso de nuestro hospital, la informacion que se gestiona tanto de pacientes como de funcionarios y colaboradores, resulta muy atractiva para el mercado ilegal, donde se llegan a transaccionar miles de millones de dolares al año por bases de datos robadas. Abrazar la **seguridad de la información**, como activo de la organización entrega a nuestro establecimiento un fuerte prestigio y reputación dentro del ***ecosistema digital de salud*** y de cara a la demanda de las personas.
+
+</div>
+</div>
+

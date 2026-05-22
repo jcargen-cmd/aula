@@ -83,7 +83,7 @@ usuarios autorizados en cualquier momento que requieran acceso
 
 ## Contraseñas, gestores y MFA
 
-Revolución Tecnológica
+Revolución Digital[^1]
 ======================
 
 <div style="display:flex; flex-direction:row;">
@@ -106,3 +106,8 @@ Con estos avances surgen tambien nuevos riesgos y amenazas
 
 </div>
 </div>
+
+
+[^1]: La **Cuarta** Revolución Industrial se basa en la Revolución Digital, la cual representa nuevas formas en que la tecnología se integra en las sociedades e incluso en el cuerpo humano. Está marcada por los **avances tecnológicos** emergentes en varios campos, que incluyen: robótica, inteligencia artificial, nanotecnología, computación cuántica, biotecnología, Internet de las cosas (IoT), impresión 3D y vehículos autónomos. Anteriores, que se caracterizaron principalmente por los avances en tecnología. Estas tecnologías tienen un gran potencial para continuar conectando a miles de millones de personas a la web, mejorar drásticamente la eficiencia de las empresas y organizaciones y ayudar a regenerar el entorno natural a través de una mejor **gestión de activos** ...
+
+  -- [Wikipedia](https://es.wikipedia.org/wiki/Cuarta_Revoluci%C3%B3n_Industrial)

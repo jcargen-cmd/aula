@@ -80,3 +80,17 @@ usuarios autorizados en cualquier momento que requieran acceso
 ![cid](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/cid_up.png)
 
 [^1]: Estos conceptos son conocidos como **TRIADA CID** En el ámbito de la seguridad de la información.
+
+## Contraseñas, gestores y MFA
+
+<div style="display:flex; flex-direction:row; font-size: 18px;">
+<div style="width:40%">
+
+</div>
+<div>
+
+![cid](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/ecodig.png)
+
+</div>
+</div>
+

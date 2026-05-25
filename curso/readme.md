@@ -113,16 +113,17 @@ Ranking 2026 Contraseñas mas usadas en Chile
 
 ### El problema de la Autenticación
 
+<div style="font-size: 18px; padding: 15px;  text-align: justify;">
+Si nos remontamos a la época del imperio romano y las culturas célticas, para viajar a traves de las tierras no era obligatorio para los ciudadanos y miembros del imperio llevar consigo un documento que acreditara su identificación. Esto generaba un problema para individualizar viajeros cuando habia que verificar asuntos del gobierno o reconocimientos de familiares. De entre las muchas soluciones, como diplomas, salvoconductos, o la ciudadanía romana, entre otros surge la **"Tessera Hospitalis"**
+</div>
+
 <div style="display:flex; flex-direction:row;">
 <div>
 
 ![tessera](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/tesselas.png)
 
 </div>
-<div style="font-size: 16px; width:20em; padding: 15px; text-align: justify;">
-Si nos remontamos a la época del imperio romano y las culturas célticas, para viajar a traves de las tierras no era obligatorio para los ciudadanos y miembros del imperio llevar consigo un documento que acreditara su identificación. Esto generaba un problema para individualizar viajeros cuando habia que verificar asuntos del gobierno o reconocimientos de familiares. De entre las muchas soluciones, como diplomas, salvoconductos, o la ciudadanía romana, entre otros surge la **"Tessera Hospitalis"**
-
----
+<div style="font-size: 16px; width:20em; padding: 15px;">
 
 La tessera hospitalis (o tésera de hospitalidad) era un objeto de metal, hueso o madera que los pueblos antiguos—especialmente celtíberos y romanos—utilizaban como sello y contraseña de un pacto de amistad o alianza. Este símbolo servía como un contrato social y salvoconducto de gran valor:
 * **Mecanismo:** La pieza se dividía en dos partes idénticas o encajables. Cada una de las partes se quedaba con una mitad, y al reencontrarse, las encajaban para demostrar su identidad y el pacto de protección mutua.
@@ -132,7 +133,7 @@ La tessera hospitalis (o tésera de hospitalidad) era un objeto de metal, hueso 
 </div>
 </div>
 
-<div style="font-size: 18px; padding: 15px;">
+<div style="font-size: 18px; padding: 15px;  text-align: justify;">
 	En la actualidad, también navegamos por extensos territorios en el ciberespacio. Usamos diversos sitios web o aplicaciones en linea para acceder a información pública, pero tambien tenemos espacios mas personales (o familiares) donde la privacidad es esencial. El problema de la autenticacion ~~(identificación de la identidad)~~ en estos espacios es resuelto de forma análoga a las tesseras. Usamos mecanismos de identificación como contraseñas o faltores de autenticación que coinciden con aquello que un sitio, que está solicitando la autenticación, espera recibir (esa pieza que calza perfectamente).
 
 </div>

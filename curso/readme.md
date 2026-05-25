@@ -161,5 +161,6 @@ Si bien existen mas leyes y un marco regulatorio mas extendido en la materia, so
 
 >**Ley Nº 21.719:** (Actualización 2024/2025): Es la norma moderna que modifica la antigua Ley N° 19.628. Eleva los estándares de seguridad, exige protección desde el diseño y regula las transferencias internacionales de datos.
 </div>
+</div>
 
 [^1]: ~~Artículo 19.-~~ La Constitución asegura a todas las personas: **4º.-** El respeto y protección a la vida privada y a la honra de la persona y su familia, y asimismo, la protección de sus datos personales. El tratamiento y protección de estos datos se efectuará en la forma y condiciones que determine la ley.

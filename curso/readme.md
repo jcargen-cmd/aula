@@ -24,7 +24,7 @@ Revolución Digital[^1]
 ==================
 
 <div style="display:flex; flex-direction:row;">
-<div style="font-size: 16px; width:25em; padding: 15px;">
+<div style="font-size: 16px; width:25em; padding: 15px; justify-content: space-between;">
 Hoy vivimos el periodo entre la tercera y la cuarta revolución industrial. Vivimos una época marcada por sucesivas revoluciones tecnólogicas. Partiendo por la invención de Internet, la explosión de las redes sociales, la evolución del Software como herramienta indispensable y recientemente la irrupcion acelerada de las IAs para apoyo y automatización de actividades
 
 ---

@@ -147,7 +147,7 @@ Referencias del Marco Legal en Chile
 
 ![privacidad](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/privada.jpg "imagen: macroscopio.com")
 
-
+Al comparar los ámbitos de lo íntimo, lo privado y lo público según el nivel de acceso que otras personas pueden tener sobre ellos, se puede entender que lo íntimo corresponde al espacio más reservado de una persona, al que nadie más debería acceder. En el extremo opuesto, lo público se caracteriza por estar abierto y disponible para todos. Entre ambos se encuentra lo privado, que corresponde a un espacio de acceso limitado o parcial, donde ciertas personas pueden acceder bajo determinadas condiciones.
 </div>
 
 <div style="font-size: 16px; width:28em; padding: 15px; text-align: justify;">

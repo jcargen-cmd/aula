@@ -143,7 +143,7 @@ Nuestro pais estipula en su carta constituyente el derecho a la protección de l
 Referencias del Marco Legal en Chile
 ------------------------------------
 <div style="display:flex; flex-direction:row;">
-<div>
+<div style="font-size: 16px; width:30em; text-align: justify;">
 
 ![privacidad](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/privada.jpg "imagen: macroscopio.com")
 
@@ -152,7 +152,7 @@ Al comparar los ámbitos de lo íntimo, lo privado y lo público según el nivel
 
 </div>
 
-<div style="font-size: 16px; width:28em; padding: 15px; text-align: justify;">
+<div style="font-size: 16px; padding: 15px; text-align: justify;">
 Si bien existen mas leyes y un marco regulatorio mas extendido en la materia, se hará referencia a lo siguiente:
 
 >**Constitución Política[^2]:** (Art. 19 Nº4): Consagra el derecho a la protección de la vida privada y la honra.

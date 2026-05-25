@@ -24,7 +24,7 @@ Revolución Digital[^1]
 ==================
 
 <div style="display:flex; flex-direction:row;">
-<div style="font-size: 16px; width:25em; padding: 15px; justify-content: space-between;">
+<div style="font-size: 16px; width:25em; padding: 15px;">
 Hoy vivimos el periodo entre la tercera y la cuarta revolución industrial. Vivimos una época marcada por sucesivas revoluciones tecnólogicas. Partiendo por la invención de Internet, la explosión de las redes sociales, la evolución del Software como herramienta indispensable y recientemente la irrupcion acelerada de las IAs para apoyo y automatización de actividades
 
 ---
@@ -57,8 +57,8 @@ Cuando la información de una organización se ve comprometida, su reputación y
 ### Principios de la seguridad de la informacion
 
 <div style="font-size: 18px;">
-La seguridad de la informacion, se constituye por tres perspectivas que van incidir en la completitud y calidad de esta: su __confidencialidad__, su __integridad__ y su __disponibilidad__[^1]. las amenazas a la seguridad de la informacion, van a afectar a una, dos o todas éstas perspectivas, en la eventualidad que se materialicen.
-Por ejemplo un ataque Ransomware afecta a las 3 por igual dado que impide el acceso a la información, puede filtrar la informacion al dominio publico, y puede modificarla a su entera discreción.
+La seguridad de la informacion, se constituye por tres perspectivas que van a incidir en la completitud y calidad de esta: su __confidencialidad__, su __integridad__ y su __disponibilidad__[^1]. Las amenazas a la seguridad de la informacion, van a afectar a una, dos o todas éstas perspectivas, en la eventualidad que se materialicen.
+Por ejemplo un ataque Ransomware afecta a las tres por igual dado que impide el acceso a la información, puede filtrar la información al dominio público, y puede modificarla a su entera discreción.
 </div>
 
 <div style="display:flex; flex-direction:row; font-size: 18px;">
@@ -119,7 +119,7 @@ Ranking 2026 Contraseñas mas usadas en Chile
 ![tessera](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/tesselas.png)
 
 </div>
-<div style="font-size: 16px; width:20em; padding: 15px; justify-content: space-between;">
+<div style="font-size: 16px; width:20em; padding: 15px; text-align: justify;">
 Si nos remontamos a la época del imperio romano y las culturas célticas, para viajar a traves de las tierras no era obligatorio para los ciudadanos y miembros del imperio llevar consigo un documento que acreditara su identificación. Esto generaba un problema para individualizar viajeros cuando habia que verificar asuntos del gobierno o reconocimientos de familiares. De entre las muchas soluciones, como diplomas, salvoconductos, o la ciudadanía romana, entre otros surge la **"Tessera Hospitalis"**
 
 ---
@@ -134,4 +134,5 @@ La tessera hospitalis (o tésera de hospitalidad) era un objeto de metal, hueso 
 
 <div style="font-size: 18px; padding: 15px;">
 	En la actualidad, también navegamos por extensos territorios en el ciberespacio. Usamos diversos sitios web o aplicaciones en linea para acceder a información pública, pero tambien tenemos espacios mas personales (o familiares) donde la privacidad es esencial. El problema de la autenticacion ~~(identificación de la identidad)~~ en estos espacios es resuelto de forma análoga a las tesseras. Usamos mecanismos de identificación como contraseñas o faltores de autenticación que coinciden con aquello que un sitio, que está solicitando la autenticación, espera recibir (esa pieza que calza perfectamente).
+
 </div>

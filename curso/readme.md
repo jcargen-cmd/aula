@@ -143,7 +143,7 @@ Nuestro pais estipula en su carta constituyente el derecho a la protección de l
 Referencias del Marco Legal en Chile
 ------------------------------------
 <div style="display:flex; flex-direction:row;">
-<div style="font-size: 16px; width:60em; text-align: justify;">
+<div style="font-size: 16px; width:85em; text-align: justify;">
 
 ![privacidad](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/privada.jpg "imagen: macroscopio.com")
 
@@ -157,7 +157,7 @@ Si bien existen mas leyes y un marco regulatorio mas extendido en la materia, se
 
 >**Constitución Política[^2]:** (Art. 19 Nº4): Consagra el derecho a la protección de la vida privada y la honra.
 
->**Ley Nº 19.628:** (Sobre Protección de la Vida Privada): Marco original sobre el tratamiento de datos personales en registros o bancos de datos.
+>**Ley Nº 19.628:** (Sobre Protección de la Vida Privada): Marco original sobre el tratamiento de datos personales en registros o bancos de datos. Regula el tratamiento, almacenamiento, uso y transmisión de datos personales en el país, asegurando que las personas tengan control sobre su propia información
 
 >**Ley Nº 21.719:** (Actualización 2024/2025): Es la norma moderna que modifica la antigua Ley N° 19.628. Eleva los estándares de seguridad, exige protección desde el diseño y regula las transferencias internacionales de datos.
 </div>

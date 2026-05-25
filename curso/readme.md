@@ -143,7 +143,7 @@ Nuestro pais estipula en su carta constituyente el derecho a la protección de l
 Referencias del Marco Legal en Chile
 ------------------------------------
 <div style="display:flex; flex-direction:row;">
-<div style="font-size: 16px; width:30em; text-align: justify;">
+<div style="font-size: 16px; width:60em; text-align: justify;">
 
 ![privacidad](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/privada.jpg "imagen: macroscopio.com")
 

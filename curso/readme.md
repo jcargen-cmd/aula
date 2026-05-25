@@ -120,21 +120,18 @@ Ranking 2026 Contraseñas mas usadas en Chile
 
 </div>
 <div style="font-size: 16px; width:20em; padding: 15px;">
-Hoy vivimos el periodo entre la tercera y la cuarta revolución industrial. Vivimos una época marcada por sucesivas revoluciones tecnólogicas. Partiendo por la invención de Internet, la explosión de las redes sociales, la evolución del Software como herramienta indispensable y recientemente la irrupcion acelerada de las IAs para apoyo y automatización de actividades
+Si nos remontamos a la época del imperio romano y las culturas célticas, para viajar a traves de las tierras no era obligatorio para los ciudadanos y miembros del imperio llevar consigo un documento que acreditara su identificación. Esto generaba un problema para individualizar viajeros cuando habia que verificar asuntos del gobierno o reconocimientos de familiares. De entre las muchas soluciones, como diplomas, salvoconductos, o la ciudadanía romana, entre otros surge la **"Tessera Hospitalis"**
 
 ---
 
-Con estos avances surgen tambien nuevos riesgos y amenazas
-* Crimen cibernético y Ciberterrorismo.
-* Filtración de datos privados y confidenciales
-* Suplantación de Identidad 
-* Ataques de software malicioso y ransomware
-* Ataques de Ingeniería Social 
+La tessera hospitalis (o tésera de hospitalidad) era un objeto de metal, hueso o madera que los pueblos antiguos—especialmente celtíberos y romanos—utilizaban como sello y contraseña de un pacto de amistad o alianza. Este símbolo servía como un contrato social y salvoconducto de gran valor:
+* **Mecanismo:** La pieza se dividía en dos partes idénticas o encajables. Cada una de las partes se quedaba con una mitad, y al reencontrarse, las encajaban para demostrar su identidad y el pacto de protección mutua.
+* **Diseño:** A menudo tenían forma de dos manos entrelazadas y llevaban inscripciones que detallaban los nombres de los firmantes o las comunidades involucradas.
+* **Origen de la palabra símbolo:** El término proviene del griego symbolon, que significa literalmente "hacer coincidir o encajar" (la acción de unir las dos mitades de la tésera).
 
 ---
 
-Cuando la información de una organización se ve comprometida, su reputación y las finanzas de la misma se ven gravemente afectadas. En el caso de nuestro hospital, la informacion que se gestiona tanto de pacientes como de funcionarios y colaboradores, resulta muy atractiva para el mercado ilegal, donde se llegan a transaccionar miles de millones de dolares al año por bases de datos robadas. Abrazar la **seguridad de la información**, como activo de la organización entrega a nuestro establecimiento un fuerte prestigio y reputación dentro del ***ecosistema digital de salud*** y de cara a la demanda de las personas.
-
+En la actualidad, también navegamos por extensos territorios en el ciberespacio. Usamos diversos sitios web o aplicaciones en linea para acceder a información pública, pero tambien tenemos espacios mas personales (o familiares) donde la privacidad es esencial. El problema de la autenticacion ~~(identificación de la identidad)~~ en estos espacios es resuelto de forma análoga a las tesseras. Usamos mecanismos de identificación como contraseñas o faltores de autenticación que coinciden con aquello que un sitio, que está solicitando la autenticación, espera recibir (esa pieza que calza perfectamente).
 </div>
 </div>
 

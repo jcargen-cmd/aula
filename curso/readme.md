@@ -119,7 +119,7 @@ Ranking 2026 Contraseñas mas usadas en Chile
 ![tessera](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/tesselas.png)
 
 </div>
-<div style="font-size: 16px; width:20em; padding: 15px;">
+<div style="font-size: 16px; width:20em; padding: 15px; justify-content: space-between;">
 Si nos remontamos a la época del imperio romano y las culturas célticas, para viajar a traves de las tierras no era obligatorio para los ciudadanos y miembros del imperio llevar consigo un documento que acreditara su identificación. Esto generaba un problema para individualizar viajeros cuando habia que verificar asuntos del gobierno o reconocimientos de familiares. De entre las muchas soluciones, como diplomas, salvoconductos, o la ciudadanía romana, entre otros surge la **"Tessera Hospitalis"**
 
 ---

@@ -135,3 +135,24 @@ La tessera hospitalis (o tésera de hospitalidad) era un objeto de metal, hueso 
 En la actualidad, también navegamos por extensos territorios en el ciberespacio. Usamos diversos sitios web o aplicaciones en linea para acceder a información pública, pero tambien tenemos espacios personales (o familiares) donde la privacidad es esencial. El problema de la autenticación *(identificación de la identidad)* en estos espacios es resuelto de forma análoga a las tesseras. Usamos mecanismos de identificación como contraseñas o factores de autenticación que coinciden con aquello que un sitio, que está solicitando la autenticación, espera recibir (esa pieza que calza perfectamente).
 </div>
 </div>
+
+### El Derecho a la privacidad en Chile
+
+Nuestro pais estipula en su carta constituyente el derecho a la protección de la vida privada. Entendemos para efectos de este curso, que existe una separación entre la información de uso privado y la información de uso público. Esta delimitación responde a la idea de reconocer una esfera personal donde cada individuo tiene facultad y potestad de excluir a los demas del conocimiento contenido en esa esfera. Lo que concierne al espacio familiar individual, es protegido por el estado, salvo que esa esfera atente contra la integridad y dignidad de otro.
+
+![privacidad](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/privada.jpg "imagen: macroscopio.com")
+
+
+Referencias del Marco Legal en Chile
+========================================
+Si bien existen mas leyes y un marco regulatorio mas extendido en la materia, solo se hará referencia a lo siguiente:
+
+>**Constitución Política[^1]:** (Art. 19 Nº4): Consagra el derecho a la protección de la vida privada y la honra.
+
+>**Ley Nº 19.628:** (Sobre Protección de la Vida Privada): Marco original sobre el tratamiento de datos personales en registros o bancos de datos.
+
+>**Ley Nº 21.719:** (Actualización 2024/2025): Es la norma moderna que modifica la antigua Ley N° 19.628. Eleva los estándares de seguridad, exige protección desde el diseño y regula las transferencias internacionales de datos.
+
+
+[^1]: ~~Artículo 19.-~~ La Constitución asegura a todas las personas: **4º.-** El respeto y protección a la vida privada y a la honra de la persona y su familia, y asimismo, la protección de sus datos personales. El tratamiento y protección de estos datos se efectuará en la forma y condiciones que determine la ley.
+

@@ -147,13 +147,15 @@ Referencias del Marco Legal en Chile
 
 ![privacidad](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/privada.jpg "imagen: macroscopio.com")
 
-Al comparar los ámbitos de lo íntimo, lo privado y lo público según el nivel de acceso que otras personas pueden tener sobre ellos, se puede entender que lo íntimo corresponde al espacio más reservado de una persona, al que nadie más debería acceder. En el extremo opuesto, lo público se caracteriza por estar abierto y disponible para todos. Entre ambos se encuentra lo privado, que corresponde a un espacio de acceso limitado o parcial, donde ciertas personas pueden acceder bajo determinadas condiciones.
+
+Al comparar los ámbitos de lo íntimo, lo privado y lo público según el nivel de acceso que otras personas pueden tener sobre ellos, se puede entender que lo íntimo corresponde al espacio más reservado de una persona, al que nadie más debería acceder. En el extremo opuesto, lo público se caracteriza por estar abierto y disponible para todos. Entre ambos se encuentra lo privado, que corresponde a un espacio de acceso limitado o parcial, donde ciertas personas pueden acceder bajo determinadas condiciones.[^1]
+
 </div>
 
 <div style="font-size: 16px; width:28em; padding: 15px; text-align: justify;">
 Si bien existen mas leyes y un marco regulatorio mas extendido en la materia, se hará referencia a lo siguiente:
 
->**Constitución Política[^1]:** (Art. 19 Nº4): Consagra el derecho a la protección de la vida privada y la honra.
+>**Constitución Política[^2]:** (Art. 19 Nº4): Consagra el derecho a la protección de la vida privada y la honra.
 
 >**Ley Nº 19.628:** (Sobre Protección de la Vida Privada): Marco original sobre el tratamiento de datos personales en registros o bancos de datos.
 
@@ -162,5 +164,5 @@ Si bien existen mas leyes y un marco regulatorio mas extendido en la materia, se
 </div>
 
 
-
-[^1]: ~~Artículo 19.-~~ La Constitución asegura a todas las personas: **4º.-** El respeto y protección a la vida privada y a la honra de la persona y su familia, y asimismo, la protección de sus datos personales. El tratamiento y protección de estos datos se efectuará en la forma y condiciones que determine la ley.
+[^1]: Francisco Javier Sanz Salguero - 2018, Delimitación de las Esferas de la Vida Privada, Privacidad e Intimidad, frente al ámbito de lo público, Conclusiones. 
+[^2]: ~~Artículo 19.-~~ La Constitución asegura a todas las personas: **4º.-** El respeto y protección a la vida privada y a la honra de la persona y su familia, y asimismo, la protección de sus datos personales. El tratamiento y protección de estos datos se efectuará en la forma y condiciones que determine la ley.

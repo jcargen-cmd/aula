@@ -114,7 +114,7 @@ Ranking 2026 Contraseñas mas usadas en Chile
 ### El problema de la Autenticación
 
 <div style="font-size: 18px; padding: 15px;  text-align: justify;">
-Si nos remontamos a la época del imperio romano y las culturas célticas, para viajar a traves de las tierras no era obligatorio para los ciudadanos y miembros del imperio llevar consigo un documento que acreditara su identificación. Esto generaba un problema para individualizar viajeros cuando habia que verificar asuntos del gobierno o reconocimientos de familiares. De entre las muchas soluciones, como diplomas, salvoconductos, o la ciudadanía romana, entre otros surge la **"Tessera Hospitalis"**
+Si nos remontamos a la época del imperio romano y las culturas célticas, para viajar a traves de las tierras no era obligatorio para los ciudadanos y miembros del imperio llevar consigo un documento que acreditas su identificación. Esto significaba un problema para individualizar viajeros cuando había que verificar asuntos del gobierno o reconocimientos de familiares. De entre las muchas soluciones que se desarrollaron tales como diplomas, salvoconductos o la ciudadanía romana, entre otros, surge la **"Tessera Hospitalis"**.
 </div>
 
 <div style="display:flex; flex-direction:row;">
@@ -130,10 +130,8 @@ La tessera hospitalis (o tésera de hospitalidad) era un objeto de metal, hueso 
 * **Diseño:** A menudo tenían forma de dos manos entrelazadas y llevaban inscripciones que detallaban los nombres de los firmantes o las comunidades involucradas.
 * **Origen de la palabra símbolo:** El término proviene del griego symbolon, que significa literalmente "hacer coincidir o encajar" (la acción de unir las dos mitades de la tésera).
 
-</div>
-</div>
+---
 
-<div style="font-size: 18px; padding: 15px;  text-align: justify;">
-	En la actualidad, también navegamos por extensos territorios en el ciberespacio. Usamos diversos sitios web o aplicaciones en linea para acceder a información pública, pero tambien tenemos espacios mas personales (o familiares) donde la privacidad es esencial. El problema de la autenticacion ~~(identificación de la identidad)~~ en estos espacios es resuelto de forma análoga a las tesseras. Usamos mecanismos de identificación como contraseñas o faltores de autenticación que coinciden con aquello que un sitio, que está solicitando la autenticación, espera recibir (esa pieza que calza perfectamente).
-
+En la actualidad, también navegamos por extensos territorios en el ciberespacio. Usamos diversos sitios web o aplicaciones en linea para acceder a información pública, pero tambien tenemos espacios personales (o familiares) donde la privacidad es esencial. El problema de la autenticación *(identificación de la identidad)* en estos espacios es resuelto de forma análoga a las tesseras. Usamos mecanismos de identificación como contraseñas o factores de autenticación que coinciden con aquello que un sitio, que está solicitando la autenticación, espera recibir (esa pieza que calza perfectamente).
+</div>
 </div>

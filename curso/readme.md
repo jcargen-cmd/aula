@@ -123,7 +123,7 @@ Si nos remontamos a la época del imperio romano y las culturas célticas, para 
 ![tessera](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/tesselas.png)
 
 </div>
-<div style="font-size: 16px; width:20em; padding: 15px;">
+<div style="font-size: 16px; width:28em; padding: 15px;">
 
 La tessera hospitalis (o tésera de hospitalidad) era un objeto de metal, hueso o madera que los pueblos antiguos—especialmente celtíberos y romanos—utilizaban como sello y contraseña de un pacto de amistad o alianza. Este símbolo servía como un contrato social y salvoconducto de gran valor:
 * **Mecanismo:** La pieza se dividía en dos partes idénticas o encajables. Cada una de las partes se quedaba con una mitad, y al reencontrarse, las encajaban para demostrar su identidad y el pacto de protección mutua.

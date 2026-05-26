@@ -196,7 +196,7 @@ Un ejercicio realizado con la IA de google, que consistió en consultar el tiemp
 </div>
 
 >[!CAUTION] ¿Y si alguien decide construir y unir todas las posibles piezas?
->Lo que en el pasado hubiese parecido imposible usando las tesseras, hoy las computadoras pueden reproducirlo con cierta holgura. Examinar **todas** las posibles combinaciones posibles para encontrar justo esa pieza que calza, resulta ser una actividad cotidiana para los algoritmos que buscan descrifar contraseñas, usando procesadores actuales a altas velocidades.
+>Lo que en el pasado hubiese parecido imposible usando las tesseras, hoy las computadoras pueden reproducirlo con cierta holgura. Examinar **todas** las combinaciones posibles para encontrar justo esa pieza que calza, resulta ser una actividad cotidiana para los algoritmos que buscan descrifar contraseñas, usando procesadores actuales a altas velocidades.
 
 [^5]:El estudio, publicado en Nature Communications, se centró en los movimientos sacádicos y permitió a la ciencia entender mejor la relación entre percepción y procesamiento cerebral. Según investigaciones del Cluster of Excellence Science of Intelligence de la Universidad Técnica de Berlín (TU Berlín), estos movimientos pueden durar entre 20 y 200 milisegundos, dependiendo de la distancia recorrida por la mirada. Durante la lectura, por ejemplo, el tiempo promedio entre palabra y palabra es de apenas 20 a 30 milisegundos.
 

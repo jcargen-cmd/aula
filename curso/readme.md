@@ -49,8 +49,9 @@ Cuando la información de una organización se ve comprometida, su reputación y
 </div>
 
 
-[^1]: La **Cuarta** Revolución Industrial se basa en la Revolución Digital, la cual representa nuevas formas en que la tecnología se integra en las sociedades e incluso en el cuerpo humano. Está marcada por los **avances tecnológicos** emergentes en varios campos, que incluyen: robótica, inteligencia artificial, nanotecnología, computación cuántica, biotecnología, Internet de las cosas (IoT), impresión 3D y vehículos autónomos. Anteriores, que se caracterizaron principalmente por los avances en tecnología. Estas tecnologías tienen un gran potencial para continuar conectando a miles de millones de personas a la web, mejorar drásticamente la eficiencia de las empresas y organizaciones y ayudar a regenerar el entorno natural a través de una mejor **gestión de activos** ...
-  -- [Wikipedia](https://es.wikipedia.org/wiki/Cuarta_Revoluci%C3%B3n_Industrial)
+[^1]:> La **Cuarta** Revolución Industrial se basa en la Revolución Digital, la cual representa nuevas formas en que la tecnología se integra en las sociedades e incluso en el cuerpo humano. Está marcada por los **avances tecnológicos** emergentes en varios campos, que incluyen: robótica, inteligencia artificial, nanotecnología, computación cuántica, biotecnología, Internet de las cosas (IoT), impresión 3D y vehículos autónomos. Anteriores, que se caracterizaron principalmente por los avances en tecnología. Estas tecnologías tienen un gran potencial para continuar conectando a miles de millones de personas a la web, mejorar drásticamente la eficiencia de las empresas y organizaciones y ayudar a regenerar el entorno natural a través de una mejor **gestión de activos** ...
+>  -- [Wikipedia](https://es.wikipedia.org/wiki/Cuarta_Revoluci%C3%B3n_Industrial)
+
 
 ### Principios de la seguridad de la informacion
 
@@ -141,7 +142,7 @@ Si bien existen mas leyes y un marco regulatorio mas extendido en la materia, se
 
 
 [^3]: Francisco Javier Sanz Salguero - 2018, Delimitación de las Esferas de la Vida Privada, Privacidad e Intimidad, frente al ámbito de lo público, Conclusiones. 
-[^4]: ~~Artículo 19.-~~ La Constitución asegura a todas las personas: **4º.-** El respeto y protección a la vida privada y a la honra de la persona y su familia, y asimismo, la protección de sus datos personales. El tratamiento y protección de estos datos se efectuará en la forma y condiciones que determine la ley.
+[^4]: **Artículo 19.-** La Constitución asegura a todas las personas: **4º.-** El respeto y protección a la vida privada y a la honra de la persona y su familia, y asimismo, la protección de sus datos personales. El tratamiento y protección de estos datos se efectuará en la forma y condiciones que determine la ley.
 
 ### El problema de la Autenticación
 
@@ -177,20 +178,23 @@ El desarrollo de la capacidad de procesamiento de información que una computado
 <div style="display:flex; flex-direction:row;">
 <div style="font-size: 14px; width:25em; padding: 15px;">
 
->Hitos clave en el procesamiento de datos:
->---------------------------
+> Hitos clave en el procesamiento de datos:
+> ---------------------------
 >* 1945 (Cálculo matemático): La primera computadora digital electrónica (ENIAC) realizó en sus primeros años más cálculos de los que toda la humanidad había logrado en su historia hasta ese momento.
 >* 1997 (Estrategia): La supercomputadora Deep Blue de IBM derrotó por primera vez al campeón mundial de ajedrez Garry Kasparov.
 >* 2011 (Procesamiento de Lenguaje Natural): El sistema IBM Watson superó a los mejores humanos en el programa de concursos Jeopardy!.
 >* 2016 (Intuición y complejidad): El programa AlphaGo de Google DeepMind derrotó al campeón mundial Lee Sedol en el milenario juego de Go, superando la capacidad de razonamiento intuitivo humano.
 >* Actualidad (2019-2026): Diversos modelos de inteligencia artificial han superado consistentemente el rendimiento humano en pruebas estandarizadas de comprensión lectora, reconocimiento visual, comprensión general y razonamiento matemático.
+
 </div>
 <div style="font-size: 16px; text-align: justify;">
+	
 ![El **AMD Ryzen 7 9800X3D** es considerado actualmente como el procesador más rápido del mundo para gaming](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/ryzen.png)	
 
 Un ejercicio realizado con la IA de google que consistió en consultar el tiempo aproximado que tomaría leer toda la biblioteca nacional de Chile a una persona vs un procesador, arrojó que con una media promedio de lectura ocular de 150 milisegundos[^5] una persona demoraría 3200 ~ 4000 años en alcanzar todos los libros de la bilioteca (4 millones), si la lectura fuese inintuerrumpida 24 horas al dia, mientras que un procesador de ultima generacion demoraría menos de un minuto si todos esos libros estuviesen digitalizados (aproximadamente 6TB de información).
 </div>
+
 </div>
 
 [^5]: >El estudio, publicado en Nature Communications, se centró en los movimientos sacádicos y permitió a la ciencia entender mejor la relación entre percepción y procesamiento cerebral. Según investigaciones del Cluster of Excellence Science of Intelligence de la Universidad Técnica de Berlín (TU Berlín), estos movimientos pueden durar entre 20 y 200 milisegundos, dependiendo de la distancia recorrida por la mirada. Durante la lectura, por ejemplo, el tiempo promedio entre palabra y palabra es de apenas 20 a 30 milisegundos.
- -- [Nature](https://www.nature.com/articles/s41467-025-58659-9)
+>  -- [Nature](https://www.nature.com/articles/s41467-025-58659-9)

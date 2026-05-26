@@ -173,7 +173,7 @@ En la actualidad, también navegamos por extensos territorios en el ciberespacio
 ### El desafío de la Revolución Tecnológica
 
 <div style="font-size: 16px; padding: 15px; text-align: justify;">
-El desarrollo de la capacidad de procesamiento de información que una computadora puede alcanzar, ya ha superado hace varios años a la capacidad de los seres humanos en términos de procesamiento de datos y comprensión de la información; Particularmente en algunas materias como matemáticas o en un juego de ajedrez. Actividades como elaborar análisis estadísticos y matemáticos son mas efectivos con el apoyo de un procesador computarizado, en vez de muchas personas trabajando juntas manualmente. La ventaja es un mejor alcance del conocimiento en menor tiempo, con mejores oportunidades para tomar mejores decisiones. El riesgo recae en el uso inadecuado de estas tecnologías para obtener ventajas que van a perjudicar la integridad y dignidad de otras personas. La propia naturaleza del ser humano invitablemente provoca que surjan nuevas amenazas como la ciberdelincuencia,  estafas digitales y robos de activos de información.
+El desarrollo de la capacidad de procesamiento de información que una computadora puede alcanzar, ya ha superado hace varios años a la capacidad de los seres humanos en términos de procesamiento de datos y comprensión de la información; Particularmente en algunas materias como matemáticas o en un juego de ajedrez. Actividades como elaborar análisis estadísticos y matemáticos son mas efectivos con el apoyo de un procesador computarizado, en vez de muchas personas trabajando juntas manualmente. La ventaja es un mejor alcance del conocimiento en menor tiempo, con mejores oportunidades para tomar mejores decisiones. El riesgo recae en el uso inadecuado de estas tecnologías para obtener ventajas que van a perjudicar la integridad y dignidad de otras personas, es decir, que se __vulneraría su derecho a la privacidad__. La propia naturaleza del ser humano invitablemente provoca que surjan nuevas amenazas como la ciberdelincuencia,  estafas digitales y robos de activos de información.
 </div>
 
 <div style="display:flex; flex-direction:row;">
@@ -193,8 +193,10 @@ El desarrollo de la capacidad de procesamiento de información que una computado
 
 Un ejercicio realizado con la IA de google, que consistió en consultar el tiempo aproximado que tomaría leer toda la biblioteca nacional de Chile a una persona vs un procesador, arrojó que con una media promedio de lectura ocular de 150 milisegundos[^5] una persona demoraría 3200 \~ 4000 años en alcanzar todos los libros de la bilioteca (\~4 millones), si la lectura fuese ininterrumpida 24 horas al dia, mientras que un procesador de ultima generacion demoraría menos de un minuto si todos esos libros estuviesen digitalizados (aproximadamente 6TB de información).
 </div>
-
 </div>
+
+>[!CAUTION] ¿Y si alguien decide construir y unir todas las posibles piezas?
+>Lo que en el pasado hubiese parecido imposible usando las tesseras, hoy las computadoras pueden reproducirlo con cierta holgura. Examinar **todas** las posibles combinaciones posibles para encontrar justo esa pieza que calza, resulta ser una actividad cotidiana para los algoritmos que buscan descrifar contraseñas, usando procesadores actuales a altas velocidades.
 
 [^5]:El estudio, publicado en Nature Communications, se centró en los movimientos sacádicos y permitió a la ciencia entender mejor la relación entre percepción y procesamiento cerebral. Según investigaciones del Cluster of Excellence Science of Intelligence de la Universidad Técnica de Berlín (TU Berlín), estos movimientos pueden durar entre 20 y 200 milisegundos, dependiendo de la distancia recorrida por la mirada. Durante la lectura, por ejemplo, el tiempo promedio entre palabra y palabra es de apenas 20 a 30 milisegundos.
 

@@ -187,7 +187,7 @@ El desarrollo de la capacidad de procesamiento de información que una computado
 > * Actualidad (2019-2026): Diversos modelos de inteligencia artificial han superado consistentemente el rendimiento humano en pruebas estandarizadas de comprensión lectora, reconocimiento visual, comprensión general y razonamiento matemático.
 
 </div>
-<div style="font-size:16px; width:40em; text-align: justify;">
+<div style="font-size:16px; padding:15px; text-align: justify;">
 
 ![AMD Ryzen 7 9800X3D](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/ryzen.png "El **AMD Ryzen 7 9800X3D** es considerado actualmente como el procesador más rápido del mundo para gaming")	
 

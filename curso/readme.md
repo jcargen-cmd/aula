@@ -49,8 +49,9 @@ Cuando la información de una organización se ve comprometida, su reputación y
 </div>
 
 
-[^1]:> La **Cuarta** Revolución Industrial se basa en la Revolución Digital, la cual representa nuevas formas en que la tecnología se integra en las sociedades e incluso en el cuerpo humano. Está marcada por los **avances tecnológicos** emergentes en varios campos, que incluyen: robótica, inteligencia artificial, nanotecnología, computación cuántica, biotecnología, Internet de las cosas (IoT), impresión 3D y vehículos autónomos. Anteriores, que se caracterizaron principalmente por los avances en tecnología. Estas tecnologías tienen un gran potencial para continuar conectando a miles de millones de personas a la web, mejorar drásticamente la eficiencia de las empresas y organizaciones y ayudar a regenerar el entorno natural a través de una mejor **gestión de activos** ...
->  -- [Wikipedia](https://es.wikipedia.org/wiki/Cuarta_Revoluci%C3%B3n_Industrial)
+[^1]:La **Cuarta** Revolución Industrial se basa en la Revolución Digital, la cual representa nuevas formas en que la tecnología se integra en las sociedades e incluso en el cuerpo humano. Está marcada por los **avances tecnológicos** emergentes en varios campos, que incluyen: robótica, inteligencia artificial, nanotecnología, computación cuántica, biotecnología, Internet de las cosas (IoT), impresión 3D y vehículos autónomos. Anteriores, que se caracterizaron principalmente por los avances en tecnología. Estas tecnologías tienen un gran potencial para continuar conectando a miles de millones de personas a la web, mejorar drásticamente la eficiencia de las empresas y organizaciones y ayudar a regenerar el entorno natural a través de una mejor **gestión de activos** ...
+  
+   -- [Wikipedia](https://es.wikipedia.org/wiki/Cuarta_Revoluci%C3%B3n_Industrial)
 
 
 ### Principios de la seguridad de la informacion
@@ -176,7 +177,7 @@ El desarrollo de la capacidad de procesamiento de información que una computado
 </div>
 
 <div style="display:flex; flex-direction:row;">
-<div style="font-size:16px; width:40em; padding:15px;">
+<div style="font-size:16px; width:40em; padding:15px; text-align: justify;">
 
 > __Hitos clave en el procesamiento de datos:__<br>
 > * 1945 (Cálculo matemático): La primera computadora digital electrónica (ENIAC) realizó en sus primeros años más cálculos de los que toda la humanidad había logrado en su historia hasta ese momento.
@@ -186,7 +187,7 @@ El desarrollo de la capacidad de procesamiento de información que una computado
 > * Actualidad (2019-2026): Diversos modelos de inteligencia artificial han superado consistentemente el rendimiento humano en pruebas estandarizadas de comprensión lectora, reconocimiento visual, comprensión general y razonamiento matemático.
 
 </div>
-<div  style="font-size:16px; width:40em; padding:15px;">
+<div style="font-size:16px; text-align: justify;">
 
 ![AMD Ryzen 7 9800X3D](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/ryzen.png "El **AMD Ryzen 7 9800X3D** es considerado actualmente como el procesador más rápido del mundo para gaming")	
 
@@ -195,8 +196,8 @@ Un ejercicio realizado con la IA de google, que consistió en consultar el tiemp
 
 </div>
 
-[^5]:> El estudio, publicado en Nature Communications, se centró en los movimientos sacádicos y permitió a la ciencia entender mejor la relación entre percepción y procesamiento cerebral.
-> Según investigaciones del Cluster of Excellence Science of Intelligence de la Universidad Técnica de Berlín (TU Berlín), estos movimientos pueden durar entre 20 y 200 milisegundos,
-> dependiendo de la distancia recorrida por la mirada. Durante la lectura, por ejemplo, el tiempo promedio entre palabra y palabra es de apenas 20 a 30 milisegundos.
->
->  -- [Nature](https://www.nature.com/articles/s41467-025-58659-9)
+[^5]:El estudio, publicado en Nature Communications, se centró en los movimientos sacádicos y permitió a la ciencia entender mejor la relación entre percepción y procesamiento cerebral.
+Según investigaciones del Cluster of Excellence Science of Intelligence de la Universidad Técnica de Berlín (TU Berlín), estos movimientos pueden durar entre 20 y 200 milisegundos,
+dependiendo de la distancia recorrida por la mirada. Durante la lectura, por ejemplo, el tiempo promedio entre palabra y palabra es de apenas 20 a 30 milisegundos.
+
+  -- [Nature](https://www.nature.com/articles/s41467-025-58659-9)

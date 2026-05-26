@@ -57,7 +57,7 @@ Cuando la información de una organización se ve comprometida, su reputación y
 ### Principios de la seguridad de la informacion
 
 <div style="font-size: 18px;">
-La seguridad de la informacion, se constituye por tres perspectivas que van a incidir en la completitud y calidad de esta: su __confidencialidad__, su __integridad__ y su __disponibilidad__[^2]. Las amenazas a la seguridad de la informacion, van a afectar a una, dos o todas éstas perspectivas, en la eventualidad que se materialicen.
+La seguridad de la informacion, se constituye por tres perspectivas que van a incidir en la completitud y calidad de esta: su __confidencialidad__, su __integridad__ y su __disponibilidad__ [^2]. Las amenazas a la seguridad de la informacion, van a afectar a una, dos o todas éstas perspectivas, en la eventualidad que se materialicen.
 Por ejemplo un ataque Ransomware afecta a las tres por igual dado que impide el acceso a la información, puede filtrar la información al dominio público, y puede modificarla a su entera discreción.
 </div>
 
@@ -187,7 +187,7 @@ El desarrollo de la capacidad de procesamiento de información que una computado
 > * Actualidad (2019-2026): Diversos modelos de inteligencia artificial han superado consistentemente el rendimiento humano en pruebas estandarizadas de comprensión lectora, reconocimiento visual, comprensión general y razonamiento matemático.
 
 </div>
-<div style="font-size:16px; text-align: justify;">
+<div style="font-size:16px; width:40em; text-align: justify;">
 
 ![AMD Ryzen 7 9800X3D](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/ryzen.png "El **AMD Ryzen 7 9800X3D** es considerado actualmente como el procesador más rápido del mundo para gaming")	
 
@@ -196,8 +196,7 @@ Un ejercicio realizado con la IA de google, que consistió en consultar el tiemp
 
 </div>
 
-[^5]:El estudio, publicado en Nature Communications, se centró en los movimientos sacádicos y permitió a la ciencia entender mejor la relación entre percepción y procesamiento cerebral.
-Según investigaciones del Cluster of Excellence Science of Intelligence de la Universidad Técnica de Berlín (TU Berlín), estos movimientos pueden durar entre 20 y 200 milisegundos,
-dependiendo de la distancia recorrida por la mirada. Durante la lectura, por ejemplo, el tiempo promedio entre palabra y palabra es de apenas 20 a 30 milisegundos.
+[^5]:El estudio, publicado en Nature Communications, se centró en los movimientos sacádicos y permitió a la ciencia entender mejor la relación entre percepción y procesamiento cerebral. Según investigaciones del Cluster of Excellence Science of Intelligence de la Universidad Técnica de Berlín (TU Berlín), estos movimientos pueden durar entre 20 y 200 milisegundos, dependiendo de la distancia recorrida por la mirada. Durante la lectura, por ejemplo, el tiempo promedio entre palabra y palabra es de apenas 20 a 30 milisegundos.
 
   -- [Nature](https://www.nature.com/articles/s41467-025-58659-9)
+

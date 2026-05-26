@@ -177,17 +177,17 @@ El desarrollo de la capacidad de procesamiento de información que una computado
 </div>
 
 <div style="display:flex; flex-direction:row;">
-<div style="font-size:16px; width:40em; padding:15px; text-align: justify;">
+<div style="width:50em; font-size:16px; padding:15px; text-align: justify;">
 
 > __Hitos clave en el procesamiento de datos:__<br>
-> * 1945 (Cálculo matemático): La primera computadora digital electrónica (ENIAC) realizó en sus primeros años más cálculos de los que toda la humanidad había logrado en su historia hasta ese momento.
-> * 1997 (Estrategia): La supercomputadora Deep Blue de IBM derrotó por primera vez al campeón mundial de ajedrez Garry Kasparov.
-> * 2011 (Procesamiento de Lenguaje Natural): El sistema IBM Watson superó a los mejores humanos en el programa de concursos Jeopardy!.
-> * 2016 (Intuición y complejidad): El programa AlphaGo de Google DeepMind derrotó al campeón mundial Lee Sedol en el milenario juego de Go, superando la capacidad de razonamiento intuitivo humano.
-> * Actualidad (2019-2026): Diversos modelos de inteligencia artificial han superado consistentemente el rendimiento humano en pruebas estandarizadas de comprensión lectora, reconocimiento visual, comprensión general y razonamiento matemático.
+> * __1945 (Cálculo matemático):__ La primera computadora digital electrónica (ENIAC) realizó en sus primeros años más cálculos de los que toda la humanidad había logrado en su historia hasta ese momento.
+> * __1997 (Estrategia):__ La supercomputadora Deep Blue de IBM derrotó por primera vez al campeón mundial de ajedrez Garry Kasparov.
+> * __2011 (Procesamiento de Lenguaje Natural):__ El sistema IBM Watson superó a los mejores humanos en el programa de concursos Jeopardy!.
+> * __2016 (Intuición y complejidad):__ El programa AlphaGo de Google DeepMind derrotó al campeón mundial Lee Sedol en el milenario juego de Go, superando la capacidad de razonamiento intuitivo humano.
+> * __Actualidad (2019-2026):__ Diversos modelos de inteligencia artificial han superado consistentemente el rendimiento humano en pruebas estandarizadas de comprensión lectora, reconocimiento visual, comprensión general y razonamiento matemático.
 
 </div>
-<div style="font-size:16px; padding:15px; text-align: justify;">
+<div style="width:50em; font-size:16px; padding:15px; text-align: justify;">
 
 ![AMD Ryzen 7 9800X3D](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/ryzen.png "El **AMD Ryzen 7 9800X3D** es considerado actualmente como el procesador más rápido del mundo para gaming")	
 

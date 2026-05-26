@@ -138,7 +138,10 @@ En la actualidad, también navegamos por extensos territorios en el ciberespacio
 
 ### El Derecho a la privacidad en Chile
 
+<div style="font-size: 16px; text-align: justify;">
 Nuestro pais estipula en su carta constituyente el derecho a la protección de la vida privada. Entendemos para efectos de este curso, que existe una separación entre la información de uso privado y la información de uso público. Esta delimitación responde a la idea de reconocer una esfera personal donde cada individuo tiene facultad y potestad de excluir a los demas del conocimiento contenido en esa esfera. Lo que concierne al espacio familiar individual, es protegido por el estado, salvo que esa esfera atente contra la integridad y dignidad de otro.
+</div>
+
 
 Referencias del Marco Legal en Chile
 ------------------------------------

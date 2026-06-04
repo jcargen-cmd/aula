@@ -198,7 +198,30 @@ Un ejercicio realizado con la IA de google, que consistió en consultar el tiemp
 >[!IMPORTANT] ¿Y si alguien decide construir y unir todas las posibles piezas?
 >Lo que en el pasado hubiese parecido imposible usando las tesseras, hoy las computadoras pueden reproducirlo con cierta holgura. Examinar y construir **todas** las combinaciones posibles para encontrar esa única pieza que calza, resulta ser una actividad cotidiana para los algoritmos que descifran contraseñas usando procesadores actuales a altas velocidades.
 
+
 [^5]:El estudio, publicado en Nature Communications, se centró en los movimientos sacádicos y permitió a la ciencia entender mejor la relación entre percepción y procesamiento cerebral. Según investigaciones del Cluster of Excellence Science of Intelligence de la Universidad Técnica de Berlín (TU Berlín), estos movimientos pueden durar entre 20 y 200 milisegundos, dependiendo de la distancia recorrida por la mirada. Durante la lectura, por ejemplo, el tiempo promedio entre palabra y palabra es de apenas 20 a 30 milisegundos.
 
   -- [Nature](https://www.nature.com/articles/s41467-025-58659-9)
 
+
+### El cambio de Paradigma
+
+
+<div style="font-size: 18px; padding: 15px;  text-align: justify;">
+Construir todas las combinaciones posibles de una contraseña hoy se ha vuelto una practica habitual para los sistemas computarizados. Esta actividad ha evolucionado a un vector de ataque de ciberseguridad denominado **"Ataque por Fuerza Bruta"**. La acción consiste en someter a prueba un mecanismo de autenticacion probando continuamente una validación mediante el ingreso de combinaciones de caracteres. La conveniencia del atacante es que esta actividad se realiza de forma automatizada, por lo que puede dejar a una CPU[^D](Unidad central de procesamiento) realizando el trabajo mientras él se dedica a otra actividad. Este **"delegado"** es conocido como Bot.
+</div>
+
+<div style="display:flex; flex-direction:row;">
+<div>
+
+![claves](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/claves2025.png)
+
+</div>
+<div style="font-size: 16px; width:20em; padding: 15px;">
+La compañia Hive Systems, publica todos los años desde 2020 el progreso del desarrollo de un ataque por fuerza bruta. Publica como resultado una tabla anual que analiza la seguridad relativa de una contraseña cifrada frente a un intento de descifrado, en función de la longitud de la contraseña, la complejidad, el algoritmo de cifrado utilizado por la víctima y el hardware utilizado por el atacante.
+Los colores van a determinar, a modo de matriz de riesgo, cuales caracteristicas debe reunir una contraseña para que sea considerada segura. El color verde indica cuales estan en esta clasificación.
+
+---
+Esta tabla que va cambiando año tras año, nos indica como se mueve la aguja de la complejidad a la hora de construir una contraseña realmente segura. Para la edición de 2025 una contraseña segura solo se alcanza, cuando esta tiene trece o mas caracteres de longitud y se han combinado mayúsculas, minúsculas y números en su elaboración
+</div>
+</div>

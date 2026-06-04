@@ -278,7 +278,7 @@ La Autenticación de Dos Factores, o **2FA** por sus siglas en inglés, es una t
 En la práctica, esto significa que, además de ingresar nuestras contraseñas habituales **(algo que todo usuario conoce)**, también vamos a tener que verificar nuestra identidad mediante un segundo factor, que puede ser algo que el usuario tiene **(como un teléfono móvil o una llave de seguridad física)**.
 </div>
 
-![2fa](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/2fa.jpg)
+![2fa](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/2fa.png)
 
 <div style="font-size: 16px; padding: 15px; text-align: justify;">
 Este segundo factor asegura que, incluso si una contraseña es robada o descifrada, el atacante aún necesitará este componente adicional para acceder a la cuenta. Dado que el segundo factor es algo que solo debería tener o ser conocido por el usuario real, 2FA aumenta de forma significativa la seguridad de las cuentas en línea.

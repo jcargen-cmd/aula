@@ -208,7 +208,7 @@ Un ejercicio realizado con la IA de google, que consistió en consultar el tiemp
 
 
 <div style="font-size: 18px; padding: 15px;  text-align: justify;">
-Construir todas las combinaciones posibles de una contraseña hoy se ha vuelto una practica habitual para los sistemas computarizados. Esta actividad ha evolucionado a un vector de ataque de ciberseguridad denominado **"Ataque por Fuerza Bruta"**. La acción consiste en someter a prueba un mecanismo de autenticacion probando continuamente una validación mediante el ingreso de combinaciones de caracteres. La conveniencia del atacante es que esta actividad se realiza de forma automatizada, por lo que puede dejar a una CPU[^D](Unidad central de procesamiento) realizando el trabajo mientras él se dedica a otra actividad. Este **"delegado"** es conocido como Bot.
+Construir todas las combinaciones posibles de una contraseña hoy se ha vuelto una practica habitual para los sistemas computarizados. Esta actividad ha evolucionado a un vector de ataque de ciberseguridad denominado **"Ataque por Fuerza Bruta"**. La acción consiste en someter a prueba un mecanismo de autenticacion probando continuamente una validación mediante el ingreso de combinaciones de caracteres. La conveniencia del atacante es que esta actividad se realiza de forma automatizada, por lo que puede dejar a una CPU[^D](***CPU:*** Unidad central de procesamiento) realizando el trabajo mientras él se dedica a otra actividad. Este **"delegado"** es conocido como Bot.
 </div>
 
 <div style="display:flex; flex-direction:row;">
@@ -227,4 +227,4 @@ Esta tabla que va cambiando año tras año, nos indica como se mueve la aguja de
 </div>
 
 >[!WARNING] Se deben aumentar los factores de autenticación
->Este vector de **ataque de fuerza bruta** y otros vectores han llevado a las instituciones y compañías a revisar los mecanismos de autenticación y adoptar un nuevo estandar para garantizar la seguridad de una cuenta. Es aqui donde la práctica de usar 2Fa o MFA se vuelve una exigencía para validar que las personas o entidades debidamente autorizadas pueden obtener acceso elevado a un activo de información[^Def.](cualquier recurso, dato, sistema o elemento que tiene valor para una organización y que es fundamental para el desarrollo de sus operaciones). 
+>Este vector de **ataque de fuerza bruta** y otros vectores han llevado a las instituciones y compañías a revisar los mecanismos de autenticación y adoptar un nuevo estandar para garantizar la seguridad de una cuenta. Es aqui donde la práctica de usar 2Fa o MFA se vuelve una exigencía para validar que las personas o entidades debidamente autorizadas pueden obtener acceso elevado a un activo de información[^Def.](***Activo de Información*** es cualquier recurso, dato, sistema o elemento que tiene valor para una organización y que es fundamental para el desarrollo de sus operaciones). 

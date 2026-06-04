@@ -225,3 +225,6 @@ Los colores van a determinar, a modo de matriz de riesgo, cuales caracteristicas
 Esta tabla que va cambiando año tras año, nos indica como se mueve la aguja de la complejidad a la hora de construir una contraseña realmente segura. Para la edición de 2025 una contraseña segura solo se alcanza, cuando esta tiene trece o mas caracteres de longitud y se han combinado mayúsculas, minúsculas y números en su elaboración
 </div>
 </div>
+
+>[!WARNING] Se deben aumentar los factores de autenticación
+>Este vector de **ataque de fuerza bruta** y otros vectores han llevado a las instituciones y compañías a revisar los mecanismos de autenticación y adoptar un nuevo estandar para garantizar la seguridad de una cuenta. Es aqui donde la práctica de usar 2Fa o MFA se vuelve una exigencía para validar que las personas o entidades debidamente autorizadas pueden obtener acceso elevado a un activo de información[^Def.](cualquier recurso, dato, sistema o elemento que tiene valor para una organización y que es fundamental para el desarrollo de sus operaciones). 

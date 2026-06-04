@@ -233,14 +233,14 @@ Esta tabla que va cambiando año tras año, nos indica como se mueve la aguja de
 
 ![mfa](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/mfa.jpg)
 
-### Qué es un factor de autenticación
+### ¿Qué es un factor de autenticación?
 
 Un factor de autenticación es una categoría especial de credencial de seguridad que se utiliza para verificar la identidad y la autorización de un usuario que intenta acceder, enviar comunicaciones o solicitar datos de una red, sistema o aplicación segura.
 
->[!NOTE] Conclusiones clave
-> ✔️ Los factores de autenticación individuales, por sí solos, pueden presentar vulnerabilidades de seguridad, a veces debido a los patrones y hábitos de comportamiento del usuario y otras veces, debido a las limitaciones de la tecnología.
-> ✔️ Actualmente, muchas organizaciones utilizan múltiples factores de autenticación para controlar el acceso a sistemas y aplicaciones de datos seguros.
-> ✔️ Las cinco categorías principales de factores de autenticación son: factores de conocimiento, factores de posesión, factores de inherencia, factores de ubicación y factores de comportamiento.
+>[!NOTE] Conceptos Clave
+>✔️ Los factores de autenticación individuales, por sí solos, pueden presentar vulnerabilidades de seguridad, a veces debido a los patrones y hábitos de comportamiento del usuario y otras veces, debido a las limitaciones de la tecnología.
+>✔️ Actualmente, muchas organizaciones utilizan múltiples factores de autenticación para controlar el acceso a sistemas y aplicaciones de datos seguros.
+>✔️ Las cinco categorías principales de factores de autenticación son: factores de conocimiento, factores de posesión, factores de inherencia, factores de ubicación y factores de comportamiento.
 
 
 Categorías de Factores de Autenticación
@@ -248,18 +248,38 @@ Categorías de Factores de Autenticación
 
 Cada factor de autenticación representa una categoría de controles de seguridad del mismo tipo. Aumentar la cantidad de factores de autenticación necesarios para acceder a un sistema puede entorpecer el proceso de inicio de sesión y generar un mayor número de solicitudes de asistencia por parte de los usuarios. Sin embargo, el proceso de autenticación ayuda a garantizar que solo los usuarios autorizados puedan acceder a la red o aplicación.
 
-* Factores de conocimiento (algo que sabes):
-  ----------------
+Factores de conocimiento (algo que sabes):
+----------------
   - Se basan en información que el usuario conoce, como contraseñas, PIN o respuestas secretas. Son el método más común para verificar la identidad.
-* Factores de posesión (algo que tienes):
-  ----------------
+
+Factores de posesión (algo que tienes):
+----------------
   - Requieren que el usuario posea un dispositivo o elemento físico, como un teléfono móvil, token de seguridad o llave de autenticación. Añaden una capa extra de protección al proceso de acceso.
-* Factores de inherencia (algo que eres):
-  ----------------
+
+Factores de inherencia (algo que eres):
+----------------
   - Utilizan características biométricas únicas del usuario, como huellas dactilares, reconocimiento facial, voz o escaneo de iris. Ofrecen alta seguridad, aunque pueden limitar la flexibilidad de acceso.
-* Factores de localización (dónde estás):
-  ----------------
+
+Factores de localización (dónde estás):
+----------------
   - Verifican la ubicación geográfica o el dispositivo desde el cual se realiza el acceso, utilizando elementos como direcciones IP o direcciones MAC para restringir el acceso a lugares o equipos autorizados.  
-* Factores de comportamiento (algo que haces):
-  ----------------
+
+Factores de comportamiento (algo que haces):
+----------------
   - Se basan en patrones de acción del usuario, como dibujar una secuencia en una pantalla táctil o realizar gestos específicos. La autenticación depende de que el usuario repita correctamente un comportamiento previamente definido.
+
+> [!TIP]
+> Estos cinco factores pueden combinarse para implementar autenticación multifactor **(MFA)**, aumentando significativamente la seguridad de los sistemas.
+
+### ¿Qué es un 2FA?
+
+<div style="font-size: 16px; padding: 15px; text-align: justify;">
+La Autenticación de Dos Factores, o **2FA** por sus siglas en inglés, es una técnica de seguridad que va más allá de la simple introducción de una contraseña. Este método requiere que el usuario proporcione dos formas distintas de identificación antes de poder acceder a su cuenta. El objetivo de 2FA es crear una capa adicional de defensa y hacer que sea más difícil para los atacantes comprometer cuentas.
+En la práctica, esto significa que, además de ingresar nuestras contraseñas habituales **(algo que todo usuario conoce)**, también vamos a tener que verificar nuestra identidad mediante un segundo factor, que puede ser algo que el usuario tiene **(como un teléfono móvil o una llave de seguridad física)**.
+</div>
+
+![2fa](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/2fa.jpg)
+
+<div style="font-size: 16px; padding: 15px; text-align: justify;">
+Este segundo factor asegura que, incluso si una contraseña es robada o descifrada, el atacante aún necesitará este componente adicional para acceder a la cuenta. Dado que el segundo factor es algo que solo debería tener o ser conocido por el usuario real, 2FA aumenta de forma significativa la seguridad de las cuentas en línea.
+</div>

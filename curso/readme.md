@@ -54,7 +54,7 @@ Cuando la información de una organización se ve comprometida, su reputación y
    -- [Wikipedia](https://es.wikipedia.org/wiki/Cuarta_Revoluci%C3%B3n_Industrial)
 
 
-### Principios de la seguridad de la informacion
+### Principios de la Seguridad de la Información
 
 <div style="font-size: 18px;">
 La seguridad de la informacion, se constituye por tres perspectivas que van a incidir en la completitud y calidad de esta: su __confidencialidad__, su __integridad__ y su __disponibilidad__ [^2]. Las amenazas a la seguridad de la informacion, van a afectar a una, dos o todas éstas perspectivas, en la eventualidad que se materialicen.
@@ -104,7 +104,7 @@ usuarios autorizados en cualquier momento que requieran acceso
 
 [^2]: Estos conceptos son conocidos como **TRIADA CID** En el ámbito de la seguridad de la información.
 
-## Contraseñas, gestores y MFA
+## Un Nuevo Paradigma
 
 Ranking 2026 Contraseñas mas usadas en Chile
 ============================================
@@ -112,7 +112,7 @@ Ranking 2026 Contraseñas mas usadas en Chile
 ![ranking](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/ranking.png)
 
 
-### El Derecho a la privacidad en Chile
+### El Derecho a la Privacidad 
 
 <div style="font-size: 16px; text-align: justify;">
 Nuestro pais estipula en su carta constituyente el derecho a la protección de la vida privada. Entendemos para efectos de este curso, que existe una separación entre la información de uso privado y la información de uso público. Esta delimitación responde a la idea de reconocer una esfera personal donde cada individuo tiene facultad y potestad de excluir a los demas del conocimiento contenido en esa esfera. Lo que concierne al espacio familiar individual, es protegido por el estado, salvo que esa esfera atente contra la integridad y dignidad de otro.
@@ -145,7 +145,7 @@ Si bien existen mas leyes y un marco regulatorio mas extendido en la materia, se
 [^3]: Francisco Javier Sanz Salguero - 2018, Delimitación de las Esferas de la Vida Privada, Privacidad e Intimidad, frente al ámbito de lo público, Conclusiones. 
 [^4]: **Artículo 19.-** La Constitución asegura a todas las personas: **4º.-** El respeto y protección a la vida privada y a la honra de la persona y su familia, y asimismo, la protección de sus datos personales. El tratamiento y protección de estos datos se efectuará en la forma y condiciones que determine la ley.
 
-### El problema de la Autenticación
+### El Problema de la Autenticación
 
 <div style="font-size: 18px; padding: 15px;  text-align: justify;">
 Si nos remontamos a la época del imperio romano y las culturas célticas, para viajar a traves de las tierras no era obligatorio para los ciudadanos y miembros del imperio llevar consigo un documento que acreditas su identificación. Esto significaba un problema para individualizar viajeros cuando había que verificar asuntos del gobierno o reconocimientos de familiares, es decir, que existía una complejidad a la hora de *estableecer un marco adecuado de gestión de la privacidad*. De entre las muchas soluciones que se desarrollaron tales como diplomas, salvoconductos o la ciudadanía romana, entre otros, surge la **"Tessera Hospitalis"**.
@@ -170,7 +170,7 @@ En la actualidad, también navegamos por extensos territorios en el ciberespacio
 </div>
 </div>
 
-### El desafío de la Revolución Tecnológica
+### El Desafío Digital
 
 <div style="font-size: 16px; padding: 15px; text-align: justify;">
 El desarrollo de la capacidad de procesamiento de información que una computadora puede alcanzar, ya ha superado hace varios años a la capacidad de los seres humanos en términos de procesamiento de datos y comprensión de la información; Particularmente en algunas materias como matemáticas o en un juego de ajedrez. Actividades como elaborar análisis estadísticos y matemáticos son mas efectivos con el apoyo de un procesador computarizado, en vez de muchas personas trabajando juntas manualmente. La ventaja es un mejor alcance del conocimiento en menor tiempo, con mejores oportunidades para tomar mejores decisiones. El riesgo recae en el uso inadecuado de estas tecnologías para obtener ventajas que van a perjudicar la integridad y dignidad de otras personas, es decir, que se __vulneraría su derecho a la privacidad__. La propia naturaleza del ser humano invitablemente provoca que surjan nuevas amenazas como la ciberdelincuencia,  estafas digitales y robos de activos de información.
@@ -204,7 +204,7 @@ Un ejercicio realizado con la IA de google, que consistió en consultar el tiemp
   -- [Nature](https://www.nature.com/articles/s41467-025-58659-9)
 
 
-### El cambio de Paradigma
+### El Cambio de Paradigma
 
 
 <div style="font-size: 18px; padding: 15px;  text-align: justify;">
@@ -227,7 +227,8 @@ Esta tabla que va cambiando año tras año, nos indica como se mueve la aguja de
 </div>
 
 >[!WARNING] Se deben aumentar los factores de autenticación
->Este vector de **ataque de fuerza bruta** y otros vectores han llevado a las instituciones y compañías a revisar los mecanismos de autenticación y adoptar un nuevo estandar para garantizar la seguridad de una cuenta. Es aqui donde la práctica de usar 2Fa o MFA se vuelve una exigencía para validar que las personas o entidades debidamente autorizadas pueden obtener acceso elevado a un activo de información[^Def.](***Activo de Información*** es cualquier recurso, dato, sistema o elemento que tiene valor para una organización y que es fundamental para el desarrollo de sus operaciones). 
+>Este vector de **ataque de fuerza bruta** y otros vectores han llevado a las instituciones y compañías a revisar los mecanismos de autenticación y adoptar un nuevo estandar para garantizar la seguridad de una cuenta. **El solo uso de un usuario y contraseña para iniciar sesión ya no es suficientemente seguro.** Es aqui donde la práctica de usar 2Fa o MFA se vuelve una exigencía para validar que las personas o entidades debidamente autorizadas pueden obtener acceso elevado a un activo de información[^Def.](***Activo de Información*** es cualquier recurso, dato, sistema o elemento que tiene valor para una organización y que es fundamental para el desarrollo de sus operaciones). 
+
 
 ## Factores de Autenticación
 
@@ -238,9 +239,9 @@ Esta tabla que va cambiando año tras año, nos indica como se mueve la aguja de
 Un factor de autenticación es una categoría especial de credencial de seguridad que se utiliza para verificar la identidad y la autorización de un usuario que intenta acceder, enviar comunicaciones o solicitar datos de una red, sistema o aplicación segura.
 
 >[!NOTE] Conceptos Clave
->✔️ Los factores de autenticación individuales, por sí solos, pueden presentar vulnerabilidades de seguridad, a veces debido a los patrones y hábitos de comportamiento del usuario y otras veces, debido a las limitaciones de la tecnología.
->✔️ Actualmente, muchas organizaciones utilizan múltiples factores de autenticación para controlar el acceso a sistemas y aplicaciones de datos seguros.
->✔️ Las cinco categorías principales de factores de autenticación son: factores de conocimiento, factores de posesión, factores de inherencia, factores de ubicación y factores de comportamiento.
+> * ✔️ Los factores de autenticación individuales, por sí solos, pueden presentar vulnerabilidades de seguridad, a veces debido a los patrones y hábitos de comportamiento del usuario y otras veces, debido a las limitaciones de la tecnología.
+> * ✔️ Actualmente, muchas organizaciones utilizan múltiples factores de autenticación para controlar el acceso a sistemas y aplicaciones de datos seguros.
+> * ✔️ Las cinco categorías principales de factores de autenticación son: factores de conocimiento, factores de posesión, factores de inherencia, factores de ubicación y factores de comportamiento.
 
 
 Categorías de Factores de Autenticación
@@ -304,7 +305,9 @@ Son numerosas las herramientas existentes que permiten este múltiple factor de 
 >
 >> [!NOTE] Usar solo contraseñas ya no es suficiente
 >> El avance de la revolución digital (4ta Revolución Industrial), en nuestro país y en el mundo, que implica la capacidad de procesamiento de información de las computadoras mas la irrupción de la inteligencia artificial entre otras cosas, han disminuido las garantías que un sistema puede entregar para autenticar identidades **solo** con el uso de una contraseña.
+>
 >> [!NOTE] Se requiere cambios de cultura
 >> El tiempo que le toma a un sistema vulnerar una contraseña se reduce cada año, lo que fuerza a las instituciones a cambiar el paradigma y **las políticas de autenticación**. Esto necesariamente implica un **cambio de cultura.**
+>
 >> [!NOTE] Se deben añadir pasos para validar una credencial
 >> El problema es abordado extendiendo la autenticación de una identidad contra un sistema añadiendo **uno (2FA) o múltiples (MFA) pasos** para validarse. La forma mas efectiva hoy es usando un teléfono personal. Aplicando el principio del **Tessera Hospitalis** nuestro teléfono viene a ser esa pieza rota que calza perfectamente con la pieza que esta exigiendo autenticación. El método se ejecuta con una herramienta de gestión OTP (one time password) instalada en nuestro teléfono, que completa el siguiente paso en la autenticación.

@@ -295,19 +295,16 @@ Son numerosas las herramientas existentes que permiten este múltiple factor de 
 
 ![Gestores](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/gestores.png "imagen: Cyberzaintza, la Agencia Vasca de Ciberseguridad")
 
-> [!IMPORTANT]
+> [!IMPORTANT] OTP
 > Un **OTP authenticator** (autenticador de contraseñas de un solo uso) es un sistema de seguridad que genera códigos numéricos temporales y únicos. Estos códigos se utilizan como un segundo factor de autenticación (2FA) para verificar tu identidad al iniciar sesión en aplicaciones o realizar transacciones.
 
 ## Conclusiones
 
 > Al finalizar este módulo podemos inferir las siguientes conclusiones
 >
->> [!NOTE]
->> El avance de la revolución tecnológica, en nuestro país y en el mundo, que implica la capacidad de procesamiento de información de las computadoras mas la irrupción de la inteligencia artificial 
-entre otras cosas, han disminuido las garantías que un sistema puede entregar para autenticar identidades **solo** con el uso de una contraseña.
->
->> [!NOTE]
+>> [!NOTE] Usar solo contraseñas ya no es suficiente
+>> El avance de la revolución digital (4ta Revolución Industrial), en nuestro país y en el mundo, que implica la capacidad de procesamiento de información de las computadoras mas la irrupción de la inteligencia artificial entre otras cosas, han disminuido las garantías que un sistema puede entregar para autenticar identidades **solo** con el uso de una contraseña.
+>> [!NOTE] Se requiere cambios de cultura
 >> El tiempo que le toma a un sistema vulnerar una contraseña se reduce cada año, lo que fuerza a las instituciones a cambiar el paradigma y **las políticas de autenticación**. Esto necesariamente implica un **cambio de cultura.**
->
->> [!NOTE]
+>> [!NOTE] Se deben añadir pasos para validar una credencial
 >> El problema es abordado extendiendo la autenticación de una identidad contra un sistema añadiendo **uno (2FA) o múltiples (MFA) pasos** para validarse. La forma mas efectiva hoy es usando un teléfono personal. Aplicando el principio del **Tessera Hospitalis** nuestro teléfono viene a ser esa pieza rota que calza perfectamente con la pieza que esta exigiendo autenticación. El método se ejecuta con una herramienta de gestión OTP (one time password) instalada en nuestro teléfono, que completa el siguiente paso en la autenticación.

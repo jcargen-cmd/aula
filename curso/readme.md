@@ -283,3 +283,31 @@ En la práctica, esto significa que, además de ingresar nuestras contraseñas h
 <div style="font-size: 16px; padding: 15px; text-align: justify;">
 Este segundo factor asegura que, incluso si una contraseña es robada o descifrada, el atacante aún necesitará este componente adicional para acceder a la cuenta. Dado que el segundo factor es algo que solo debería tener o ser conocido por el usuario real, 2FA aumenta de forma significativa la seguridad de las cuentas en línea.
 </div>
+
+### Gestores de Autenticación
+
+> [!TIP] Recuerda
+> Un factor de autenticación múltiple (**MFA** Multi Factor Authentication) es una tecnología de seguridad que precisa varios métodos de autenticación para verificar la identidad de un usuario antes de acceder a un sistema, herramienta, o plataforma.
+
+<div style="font-size: 16px; padding: 15px; text-align: justify;">
+Son numerosas las herramientas existentes que permiten este múltiple factor de autenticación y que añaden seguridad a la hora de utilizar aplicaciones. Una vez validada la cuenta externa a través de un código, facilitan una clave temporal que va cambiando cada poco tiempo y que será necesario introducir al acceder a la cuenta externa.
+</div>
+
+![Gestores](https://raw.githubusercontent.com/jcargen-cmd/aula/main/curso/gestores.png "imagen: Cyberzaintza, la Agencia Vasca de Ciberseguridad")
+
+> [!IMPORTANT]
+> Un **OTP authenticator** (autenticador de contraseñas de un solo uso) es un sistema de seguridad que genera códigos numéricos temporales y únicos. Estos códigos se utilizan como un segundo factor de autenticación (2FA) para verificar tu identidad al iniciar sesión en aplicaciones o realizar transacciones.
+
+## Conclusiones
+
+> Al finalizar este módulo podemos inferir las siguientes conclusiones
+>
+>> [!NOTE]
+>> El avance de la revolución tecnológica, en nuestro país y en el mundo, que implica la capacidad de procesamiento de información de las computadoras mas la irrupción de la inteligencia artificial 
+entre otras cosas, han disminuido las garantías que un sistema puede entregar para autenticar identidades **solo** con el uso de una contraseña.
+>
+>> [!NOTE]
+>> El tiempo que le toma a un sistema vulnerar una contraseña se reduce cada año, lo que fuerza a las instituciones a cambiar el paradigma y **las políticas de autenticación**. Esto necesariamente implica un **cambio de cultura.**
+>
+>> [!NOTE]
+>> El problema es abordado extendiendo la autenticación de una identidad contra un sistema añadiendo **uno (2FA) o múltiples (MFA) pasos** para validarse. La forma mas efectiva hoy es usando un teléfono personal. Aplicando el principio del **Tessera Hospitalis** nuestro teléfono viene a ser esa pieza rota que calza perfectamente con la pieza que esta exigiendo autenticación. El método se ejecuta con una herramienta de gestión OTP (one time password) instalada en nuestro teléfono, que completa el siguiente paso en la autenticación.
